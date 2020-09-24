@@ -1,5 +1,5 @@
 # Shmup Project
 
-basic description
+An original shmup game by Aidan Quade
 
 *[Process Documentation](./Process/)
